@@ -1,8 +1,7 @@
 # Olá, eu sou o Henrique! 👋
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=h-pupin&show_icons=true&theme=tokyonight&hide=commits,prs,issues,contribs" alt="Status do GitHub" height="180em" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-pupin&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-pupin&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="100em" />
 </div>
 
 ---
