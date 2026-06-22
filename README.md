@@ -1,9 +1,5 @@
 # Olá, eu sou o Henrique! 👋
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-pupin&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="100em" />
-</div>
-
 ---
 
 ### 🚀 Sobre Mim
